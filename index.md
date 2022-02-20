@@ -94,44 +94,7 @@
 </table>
 
     
-<h3>Below lists the samples that are synthesized via Tacotron2.</h3>
-<table>
-    <tr>
-      <th style="text-align: left">    </th>
-      <td style="text-align: left">LJ016-0234. He was not unskilful, but he proceeded entirely by rule of thumb, leaving the result very much to chance and the strength of the rope.</td>
-      <td style="text-align: left">LJ017-0045. The Central Criminal Court was crowded to suffocation.</td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>Ground Truth</strong></th>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045.wav" controls="" preload=""></audio></td>
-    </tr>
-  <tr>
-      <th style="text-align: left"><strong>Tacotron2</strong></th>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234-original.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_original.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>Tacotron2+Postnet</strong></th>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234-postnet.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_postnet.wav" controls="" preload=""></audio></td>
-    </tr>
-  <tr>
-      <th style="text-align: left"><strong>Tacotron2+UNet</strong></th>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234-unet.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045-unet.wav" controls="" preload=""></audio></td>
-    </tr>
-  <tr>
-      <th style="text-align: left"><strong>Tacotron2+UNet3+</strong></th>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234-unet3.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045-unet3.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>Tacotron2+SE-UNet</strong></th>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234_SE_UNET.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_SE_UNET.wav" controls="" preload=""></audio></td>
-    </tr>
-</table>
+
     
   </body>
 </html>
