@@ -73,7 +73,7 @@
 </table>
     
 <h2>2. Synthesized samples -- Unseen Speakers<a name="samples-unseen"></a></h2>
-<h3> Using one reference audios, reference audios from same language. </h3>
+<h3> Using one reference audios, reference audios from AISHELL3. </h3>
 <table>
     <tr>
       <th style="text-align: left">Models</th>
@@ -166,7 +166,27 @@
 </table>
     
 <h2>3. Synthesized samples -- different number of reference audios <a name="samples-unseen"></a></h2>
-
+<table>
+  <tr>
+      <th style="text-align: left"><strong>models</strong></th>
+      <td style="text-align: left">1 ref</td>
+      <td style="text-align: left">3 ref</td>     
+      <td style="text-align: left">5 ref</td>
+  </tr>
+  
+  <tr>
+      <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>      
+  </tr>
+  
+  <tr>
+      <th style="text-align: left"><strong>ours</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>      
+    </tr>
+  
+</table>
   </body>
 </html>
 
