@@ -124,7 +124,7 @@
     <tr>
       <th style="text-align: left">Models</th>
       <td style="text-align: left">P3570:Wednesday night was a difficult time for Britton .</td>
-      <td style="text-align: left">P4077:PWednesday night was a difficult time for Britton .</td>
+      <td style="text-align: left">P4077:Wednesday night was a difficult time for Britton .</td>
     </tr>
   
     <tr>
@@ -182,22 +182,22 @@
     <tr>
       <th style="text-align: left"><strong>StyleSpeech</strong></th>
       <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\Wednesday night was a difficult time for Britton . -SSB0005.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\Wednesday night was a difficult time for Britton . -SSB0535.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\Wednesday night was a difficult time for Britton .-SSB0535.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>Meta-StyleSpeech</strong></th>
       <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\AISHELL3\Wednesday night was a difficult time for Britton . -SSB0005.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\AISHELL3\Wednesday night was a difficult time for Britton . -SSB0535.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\AISHELL3\Wednesday night was a difficult time for Britton .-SSB0535.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
       <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . _SSB0005.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . -SSB0535.wav" controls="" preload=""></audio></td>      
+      <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton .-SSB0535.wav" controls="" preload=""></audio></td>      
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours</strong></th>
       <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . _SSB0005.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . -SSB0535.wav" controls="" preload=""></audio></td>      
+      <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton .-SSB0535.wav" controls="" preload=""></audio></td>      
     </tr>
 </table>
     
