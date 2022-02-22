@@ -170,12 +170,12 @@
     <tr>
       <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
       <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . _SSB0005.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton .-SSB0535.wav" controls="" preload=""></audio></td>      
+      <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton ._SSB0535.wav" controls="" preload=""></audio></td>      
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours</strong></th>
       <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . _SSB0005.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton .-SSB0535.wav" controls="" preload=""></audio></td>      
+      <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton ._SSB0535.wav" controls="" preload=""></audio></td>      
     </tr>
 </table>
     
