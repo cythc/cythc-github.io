@@ -42,8 +42,8 @@
     </tr>
     <tr>
       <th style="text-align: left"><strong>FS2+speaker ID</strong></th>
-      <td style="text-align: left"><audio src="wavs\FS2-speakerID\seen\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FS2-speakerID\seen\You have to see the work ._p261.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FS2-speakerID\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FS2-speakerID\You have to see the work ._p261.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>FS2+d-vector</strong></th>
@@ -52,13 +52,13 @@
     </tr>
     <tr>
       <th style="text-align: left"><strong>StyleSpeech</strong></th>
-      <td style="text-align: left"><audio src="wavs\StyleSpeech\seen\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\StyleSpeech\seen\You have to see the work ._p261.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\StyleSpeech\seen\Behind him was his brother .-p259.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\StyleSpeech\seen\You have to see the work .-p261.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>Meta-StyleSpeech</strong></th>
-      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\seen\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\seen\You have to see the work ._p261.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\seen\Behind him was his brother .-p259.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\seen\You have to see the work .-p261.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
@@ -104,8 +104,8 @@
     </tr>
     <tr>
       <th style="text-align: left"><strong>Meta-StyleSpeech</strong></th>
-      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\She can scoop these things into three red bags , and we will go meet her Wednesday at the train station ._p238.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\VCTK\She can scoop these things into three red bags , and we will go meet her Wednesday at the train station ._p238.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\VCTK\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
@@ -145,18 +145,18 @@
     </tr>
     <tr>
       <th style="text-align: left"><strong>Meta-StyleSpeech</strong></th>
-      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\unet3\Wednesday night was a difficult time for Britton . -LibriTTS-3570.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\unet3\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\LibriTTS\Wednesday night was a difficult time for Britton . -LibriTTS-3570.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\LibriTTS\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
-      <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-3570.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>      
+      <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . _LibriTTS-3570.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . _LibriTTS-4077.wav" controls="" preload=""></audio></td>      
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours</strong></th>
-      <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-3570.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-3570.wav" controls="" preload=""></audio></td>      
+      <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . _LibriTTS-3570.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . _LibriTTS-3570.wav" controls="" preload=""></audio></td>      
     </tr>
 </table>
 
@@ -181,13 +181,13 @@
     </tr>
     <tr>
       <th style="text-align: left"><strong>StyleSpeech</strong></th>
-      <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\Wednesday night was a difficult time for Britton . _SSB0005.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\Wednesday night was a difficult time for Britton . -SSB0005.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>Meta-StyleSpeech</strong></th>
-      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\unet3\Wednesday night was a difficult time for Britton . _SSB0005.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\unet3\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\AISHELL3\Wednesday night was a difficult time for Britton . -SSB0005.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\AISHELL3\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
