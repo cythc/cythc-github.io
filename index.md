@@ -213,13 +213,14 @@
   
   <tr>
       <th style="text-align: left"><strong>target speaker</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>    
+      <td style="text-align: left"><audio src="wavs\ours\multi\p230_002.wav" controls="" preload=""></audio></td>    
   </tr>
   
   <tr>
       <th style="text-align: left"><strong>ours</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>      
+      <td style="text-align: left"><audio src="wavs\ours\multi\Ask her to bring these things with her from the store.  _P230_1.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\ours\multi\Ask her to bring these things with her from the store.  _P230_3.wav" controls="" preload=""></audio></td> 
+      <td style="text-align: left"><audio src="wavs\ours\multi\Ask her to bring these things with her from the store.  _P230_5.wav" controls="" preload=""></audio></td> 
     </tr>
   
 </table>
