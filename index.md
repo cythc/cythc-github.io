@@ -31,8 +31,8 @@
   
     <tr>
       <th style="text-align: left"><strong>referances audios</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ049-0213.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\GT\seen\If that's the case , he will struggle ._p259.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\GT\seen\It was a poor performance ._p261.wav" controls="" preload=""></audio></td>
     </tr>
   
     <tr>
@@ -83,8 +83,8 @@
   
     <tr>
       <th style="text-align: left"><strong>referances audios</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ049-0213.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\GT\unseen\Frankly , it was worth the booking ._p238" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\GT\unseen\The project has already secured the support of Sir Sean Connery ._p237.wav" controls="" preload=""></audio></td>
     </tr>
   
     <tr>
