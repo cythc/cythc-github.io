@@ -119,25 +119,20 @@
     </tr>
 </table>
 
-<h3> Using one reference audios, reference audios from same language. </h3>
+<h3> Using one reference audios, reference audios from LibriTTS </h3>
 <table>
     <tr>
       <th style="text-align: left">Models</th>
-      <td style="text-align: left">AISHELL3 For the paltry sum of 4 pence, with costs of 7 shillings, 6 pence.</td>
-      <td style="text-align: left">VCTKThere are always dangers of divided responsibility.</td>
+      <td style="text-align: left">P3580:Wednesday night was a difficult time for Britton .</td>
+      <td style="text-align: left">P4077:PWednesday night was a difficult time for Britton .</td>
     </tr>
   
     <tr>
       <th style="text-align: left"><strong>referances audios</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ049-0213.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\GT\unseen\3570_5696_000002_000000.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\GT\unseen\4077_13751_000019_000005.wav" controls="" preload=""></audio></td>
     </tr>
   
-    <tr>
-      <th style="text-align: left"><strong>Ground Truth</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ049-0213.wav" controls="" preload=""></audio></td>
-    </tr>
     <tr>
       <th style="text-align: left"><strong>FS2+d-vector</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
@@ -145,25 +140,67 @@
     </tr>
     <tr>
       <th style="text-align: left"><strong>StyleSpeech</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-3570.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>Meta-StyleSpeech</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ049-0213_post.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\unet3\Wednesday night was a difficult time for Britton . -LibriTTS-3570.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\unet3\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>      
+      <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-3570.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>      
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>      
+      <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-3570.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-3570.wav" controls="" preload=""></audio></td>      
     </tr>
 </table>
+
+ <h3> Using one reference audios, reference audios from AISHELL3 </h3>
+<table>
+    <tr>
+      <th style="text-align: left">Models</th>
+      <td style="text-align: left">SSB0005:Wednesday night was a difficult time for Britton .</td>
+      <td style="text-align: left">P4077:PWednesday night was a difficult time for Britton .</td>
+    </tr>
+  
+    <tr>
+      <th style="text-align: left"><strong>referances audios</strong></th>
+      <td style="text-align: left"><audio src="wavs\GT\unseen\SSB00050001.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\GT\unseen\4077_13751_000019_000005.wav" controls="" preload=""></audio></td>
+    </tr>
+  
+    <tr>
+      <th style="text-align: left"><strong>FS2+d-vector</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ049-0213_post.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>StyleSpeech</strong></th>
+      <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\Wednesday night was a difficult time for Britton . _SSB0005.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>Meta-StyleSpeech</strong></th>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\unet3\Wednesday night was a difficult time for Britton . _SSB0005.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\unet3\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
+      <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . _SSB0005.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>      
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>ours</strong></th>
+      <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . _SSB0005.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-3570.wav" controls="" preload=""></audio></td>      
+    </tr>
+</table>
+    
     
 <h2>3. Synthesized samples -- different number of reference audios <a name="samples-unseen"></a></h2>
 <table>
