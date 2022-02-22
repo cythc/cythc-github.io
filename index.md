@@ -46,11 +46,6 @@
       <td style="text-align: left"><audio src="wavs\FS2-speakerID\You have to see the work ._p261.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>FS2+d-vector</strong></th>
-      <td style="text-align: left"><audio src="wavs\FS2-speakerID\seen\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FS2-speakerID\seen\You have to see the work ._p261.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
       <th style="text-align: left"><strong>StyleSpeech</strong></th>
       <td style="text-align: left"><audio src="wavs\StyleSpeech\seen\Behind him was his brother .-p259.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\StyleSpeech\seen\You have to see the work .-p261.wav" controls="" preload=""></audio></td>
@@ -93,11 +88,6 @@
       <td style="text-align: left"><audio src="wavs\GT\unseen\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>FS2+d-vector</strong></th>
-      <td style="text-align: left"><audio src="wavs\GT\unseen\She can scoop these things into three red bags , and we will go meet her Wednesday at the train station ._p238.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\GT\unseen\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
       <th style="text-align: left"><strong>StyleSpeech</strong></th>
       <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\She can scoop these things into three red bags , and we will go meet her Wednesday at the train station ._p238.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>
@@ -131,12 +121,6 @@
       <th style="text-align: left"><strong>referances audios</strong></th>
       <td style="text-align: left"><audio src="wavs\GT\unseen\3570_5696_000002_000000.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\GT\unseen\4077_13751_000019_000005.wav" controls="" preload=""></audio></td>
-    </tr>
-  
-    <tr>
-      <th style="text-align: left"><strong>FS2+d-vector</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ049-0213_post.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>StyleSpeech</strong></th>
@@ -172,12 +156,6 @@
       <th style="text-align: left"><strong>referances audios</strong></th>
       <td style="text-align: left"><audio src="wavs\GT\unseen\SSB00050001.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\GT\unseen\SSB05350003.wav" controls="" preload=""></audio></td>
-    </tr>
-  
-    <tr>
-      <th style="text-align: left"><strong>FS2+d-vector</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ049-0213_post.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>StyleSpeech</strong></th>
