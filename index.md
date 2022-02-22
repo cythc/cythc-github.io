@@ -21,7 +21,7 @@
 </ol>
 
 <h2>1. Synthesized samples -- Seen Speakers<a name="samples-seen"></a></h2>
-<h3> Using one reference audios </h3>
+<h3> Using three reference audios </h3>
 <table>
     <tr>
       <th style="text-align: left">Models</th>
@@ -73,7 +73,7 @@
 </table>
     
 <h2>2. Synthesized samples -- Unseen Speakers<a name="samples-unseen"></a></h2>
-<h3> Using one reference audios, reference audios from VCTK. </h3>
+<h3> Using three reference audios, reference audios from VCTK. </h3>
 <table>
     <tr>
       <th style="text-align: left">Models</th>
@@ -119,7 +119,7 @@
     </tr>
 </table>
 
-<h3> Using one reference audios, reference audios from LibriTTS </h3>
+<h3> Using three reference audios, reference audios from LibriTTS </h3>
 <table>
     <tr>
       <th style="text-align: left">Models</th>
@@ -160,7 +160,7 @@
     </tr>
 </table>
 
- <h3> Using one reference audios, reference audios from AISHELL3 </h3>
+ <h3> Using three reference audios, reference audios from AISHELL3 </h3>
 <table>
     <tr>
       <th style="text-align: left">Models</th>
@@ -212,9 +212,8 @@
   </tr>
   
   <tr>
-      <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>      
+      <th style="text-align: left"><strong>target speaker</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>    
   </tr>
   
   <tr>
