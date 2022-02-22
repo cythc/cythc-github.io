@@ -25,8 +25,8 @@
 <table>
     <tr>
       <th style="text-align: left">Models</th>
-      <td style="text-align: left">LJ002-0164. For the paltry sum of 4 pence, with costs of 7 shillings, 6 pence.</td>
-      <td style="text-align: left">LJ049-0213. There are always dangers of divided responsibility.</td>
+      <td style="text-align: left">p259: Behind him was his brother.</td>
+      <td style="text-align: left">P261: You have to see the work.</td>
     </tr>
   
     <tr>
@@ -37,48 +37,48 @@
   
     <tr>
       <th style="text-align: left"><strong>Ground Truth</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ049-0213.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\GT\seen\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\GT\seen\You have to see the work ._p261.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>FS2+speaker ID</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\original\LJ002-0164.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\original\LJ049-0213.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FS2-speakerID\seen\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FS2-speakerID\seen\You have to see the work ._p261.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>FS2+d-vector</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ049-0213_post.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FS2-speakerID\seen\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FS2-speakerID\seen\You have to see the work ._p261.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>StyleSpeech</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\StyleSpeech\seen\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\StyleSpeech\seen\You have to see the work ._p261.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>Meta-StyleSpeech</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ049-0213_post.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\seen\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\seen\You have to see the work ._p261.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>      
+      <td style="text-align: left"><audio src="wavs\withou_D\seen\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\withou_D\seen\You have to see the work ._p261.wav" controls="" preload=""></audio></td>      
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>      
+      <td style="text-align: left"><audio src="wavs\ours\seen\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\ours\seen\You have to see the work ._p261.wav" controls="" preload=""></audio></td>      
     </tr>
 </table>
     
 <h2>2. Synthesized samples -- Unseen Speakers<a name="samples-unseen"></a></h2>
-<h3> Using one reference audios, reference audios from AISHELL3. </h3>
+<h3> Using one reference audios, reference audios from VCTK. </h3>
 <table>
     <tr>
       <th style="text-align: left">Models</th>
-      <td style="text-align: left">VCTK For the paltry sum of 4 pence, with costs of 7 shillings, 6 pence.</td>
-      <td style="text-align: left">VCTKThere are always dangers of divided responsibility.</td>
+      <td style="text-align: left">P238: She can scoop these things into three red bags , and we will go meet her Wednesday at the train station .</td>
+      <td style="text-align: left">P237:We're in the premier division and we intend to stay there .</td>
     </tr>
   
     <tr>
@@ -89,33 +89,33 @@
   
     <tr>
       <th style="text-align: left"><strong>Ground Truth</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ049-0213.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\GT\unseen\She can scoop these things into three red bags , and we will go meet her Wednesday at the train station ._p238.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\GT\unseen\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>FS2+d-vector</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ049-0213_post.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\GT\unseen\She can scoop these things into three red bags , and we will go meet her Wednesday at the train station ._p238.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\GT\unseen\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>StyleSpeech</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\She can scoop these things into three red bags , and we will go meet her Wednesday at the train station ._p238.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>Meta-StyleSpeech</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ049-0213_post.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\She can scoop these things into three red bags , and we will go meet her Wednesday at the train station ._p238.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>      
+      <td style="text-align: left"><audio src="wavs\withou_D\unseen\She can scoop these things into three red bags , and we will go meet her Wednesday at the train station ._p238.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\withou_D\unseen\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>      
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>      
+      <td style="text-align: left"><audio src="wavs\ours\unseen\She can scoop these things into three red bags , and we will go meet her Wednesday at the train station ._p238.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\ours\unseen\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>      
     </tr>
 </table>
 
