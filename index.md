@@ -156,7 +156,7 @@
     <tr>
       <th style="text-align: left"><strong>ours</strong></th>
       <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . _LibriTTS-3570.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . _LibriTTS-3570.wav" controls="" preload=""></audio></td>      
+      <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . _LibriTTS-4077.wav" controls="" preload=""></audio></td>      
     </tr>
 </table>
 
@@ -165,7 +165,7 @@
     <tr>
       <th style="text-align: left">Models</th>
       <td style="text-align: left">SSB0005:Wednesday night was a difficult time for Britton .</td>
-      <td style="text-align: left">P4077:PWednesday night was a difficult time for Britton .</td>
+      <td style="text-align: left">P4077:Wednesday night was a difficult time for Britton .</td>
     </tr>
   
     <tr>
