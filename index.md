@@ -78,7 +78,7 @@
   
     <tr>
       <th style="text-align: left"><strong>referances audios</strong></th>
-      <td style="text-align: left"><audio src="wavs\GT\unseen\Frankly , it was worth the booking ._p238" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\GT\unseen\Frankly , it was worth the booking ._p238.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\GT\unseen\The project has already secured the support of Sir Sean Connery ._p237.wav" controls="" preload=""></audio></td>
     </tr>
   
