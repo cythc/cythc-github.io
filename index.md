@@ -56,12 +56,17 @@
       <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\seen\You have to see the work .-p261.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
+      <th style="text-align: left"><strong>MRMI-TTS w/o discriminator</strong></th>
       <td style="text-align: left"><audio src="wavs\withou_D\seen\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\withou_D\seen\You have to see the work ._p261.wav" controls="" preload=""></audio></td>      
     </tr>
     <tr>
-      <th style="text-align: left"><strong>ours</strong></th>
+      <th style="text-align: left"><strong>MRMI-TTS w/o MI</strong></th>
+      <td style="text-align: left"><audio src="wavs\without_MI\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\without_MI\You have to see the work ._p261.wav" controls="" preload=""></audio></td>      
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>MRMI-TTS</strong></th>
       <td style="text-align: left"><audio src="wavs\ours\seen\Behind him was his brother ._p259.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\ours\seen\You have to see the work ._p261.wav" controls="" preload=""></audio></td>      
     </tr>
@@ -98,12 +103,17 @@
       <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\VCTK\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
+      <th style="text-align: left"><strong>MRMI-TTS w/o discriminator</strong></th>
       <td style="text-align: left"><audio src="wavs\withou_D\unseen\She can scoop these things into three red bags , and we will go meet her Wednesday at the train station ._p238.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\withou_D\unseen\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>      
     </tr>
+  <tr>
+      <th style="text-align: left"><strong>MRMI-TTS w/o discriminator</strong></th>
+      <td style="text-align: left"><audio src="wavs\without_MI\She can scoop these things into three red bags , and we will go meet her Wednesday at the train station ._p238.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\without_MI\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>      
+    </tr>
     <tr>
-      <th style="text-align: left"><strong>ours</strong></th>
+      <th style="text-align: left"><strong>MRMI-TTS</strong></th>
       <td style="text-align: left"><audio src="wavs\ours\unseen\She can scoop these things into three red bags , and we will go meet her Wednesday at the train station ._p238.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\ours\unseen\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>      
     </tr>
@@ -133,12 +143,16 @@
       <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\LibriTTS\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
+      <th style="text-align: left"><strong>MRMI-TTS w/o discriminator</strong></th>
       <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . _LibriTTS-3570.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . _LibriTTS-4077.wav" controls="" preload=""></audio></td>      
     </tr>
+      <th style="text-align: left"><strong>MRMI-TTS w/o MI</strong></th>
+          <td style="text-align: left"><audio src="wavs\without_MI\Wednesday night was a difficult time for Britton ._P3570.wav" controls="" preload=""></audio></td>
+          <td style="text-align: left"><audio src="wavs\without_MI\Wednesday night was a difficult time for Britton ._P4077.wav" controls="" preload=""></audio></td>      
+    </tr>
     <tr>
-      <th style="text-align: left"><strong>ours</strong></th>
+      <th style="text-align: left"><strong>MRMI-TTS</strong></th>
       <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . _LibriTTS-3570.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . _LibriTTS-4077.wav" controls="" preload=""></audio></td>      
     </tr>
@@ -168,9 +182,14 @@
       <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\AISHELL3\Wednesday night was a difficult time for Britton .-SSB0535.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>ours w/o discriminator</strong></th>
+      <th style="text-align: left"><strong>MRMI-TTS w/o discriminator</strong></th>
       <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . _SSB0005.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton ._SSB0535.wav" controls="" preload=""></audio></td>      
+    </tr>
+  <tr>
+      <th style="text-align: left"><strong>MRMI-TTS w/o MI</strong></th>
+      <td style="text-align: left"><audio src="wavs\without_MI\Wednesday night was a difficult time for Britton ._SSB0005.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\without_MI\Wednesday night was a difficult time for Britton ._SSB0535.wav" controls="" preload=""></audio></td>      
     </tr>
     <tr>
       <th style="text-align: left"><strong>ours</strong></th>
