@@ -210,7 +210,7 @@
   </tr>
   
   <tr>
-      <th style="text-align: left"><strong>target speaker</strong></th>
+      <th style="text-align: left"><strong>MIMR-TTS</strong></th>
       <td style="text-align: left"><audio src="wavs\ours\multi\p230_002.wav" controls="" preload=""></audio></td>    
   </tr>
   
