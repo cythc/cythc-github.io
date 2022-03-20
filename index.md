@@ -133,25 +133,30 @@
       <td style="text-align: left"><audio src="wavs\GT\unseen\3570_5696_000002_000000.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\GT\unseen\4077_13751_000019_000005.wav" controls="" preload=""></audio></td>
     </tr>
+  
     <tr>
       <th style="text-align: left"><strong>StyleSpeech</strong></th>
       <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-3570.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\StyleSpeech\unseen\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>
     </tr>
+  
     <tr>
       <th style="text-align: left"><strong>Meta-StyleSpeech</strong></th>
       <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\LibriTTS\Wednesday night was a difficult time for Britton . -LibriTTS-3570.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\Meta-StyleSpeech\unseen\LibriTTS\Wednesday night was a difficult time for Britton . -LibriTTS-4077.wav" controls="" preload=""></audio></td>
     </tr>
+  
     <tr>
       <th style="text-align: left"><strong>MRMI-TTS w/o discriminator</strong></th>
       <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . _LibriTTS-3570.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\withou_D\unseen\Wednesday night was a difficult time for Britton . _LibriTTS-4077.wav" controls="" preload=""></audio></td>      
     </tr>
+    <tr>
       <th style="text-align: left"><strong>MRMI-TTS w/o MI</strong></th>
           <td style="text-align: left"><audio src="wavs\without_MI\Wednesday night was a difficult time for Britton ._P3570.wav" controls="" preload=""></audio></td>
           <td style="text-align: left"><audio src="wavs\without_MI\Wednesday night was a difficult time for Britton ._P4077.wav" controls="" preload=""></audio></td>      
     </tr>
+  
     <tr>
       <th style="text-align: left"><strong>MRMI-TTS</strong></th>
       <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . _LibriTTS-3570.wav" controls="" preload=""></audio></td>
