@@ -109,7 +109,7 @@
       <td style="text-align: left"><audio src="wavs\withou_D\unseen\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>      
     </tr>
   <tr>
-      <th style="text-align: left"><strong>MRMI-TTS w/o discriminator</strong></th>
+      <th style="text-align: left"><strong>MRMI-TTS w/o MI</strong></th>
       <td style="text-align: left"><audio src="wavs\without_MI\She can scoop these things into three red bags , and we will go meet her Wednesday at the train station ._p238.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\without_MI\We're in the premier division and we intend to stay there ._p237.wav" controls="" preload=""></audio></td>      
     </tr>
@@ -193,7 +193,7 @@
       <td style="text-align: left"><audio src="wavs\without_MI\Wednesday night was a difficult time for Britton ._SSB0535.wav" controls="" preload=""></audio></td>      
     </tr>
     <tr>
-      <th style="text-align: left"><strong>ours</strong></th>
+      <th style="text-align: left"><strong>MRMI-TTS</strong></th>
       <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton . _SSB0005.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\ours\unseen\Wednesday night was a difficult time for Britton ._SSB0535.wav" controls="" preload=""></audio></td>      
     </tr>
